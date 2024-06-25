@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "204064924994",
+    "project_id": "cardealershipas",
+    "storage_bucket": "cardealershipas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204064924994:android:4eb759981b8843b207d4db",
+        "android_client_info": {
+          "package_name": "com.example.projecteliaandyona"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrDHUFRqm469w9raFRbaFuywCFElDXUeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
