@@ -76,7 +76,7 @@ public class myCarsFrag extends Fragment {
         myAdapter = new MyAdapter(requireContext(), list);
         recyclerView.setAdapter(myAdapter);
 
-        databaseReference.addValueEventListener(new ValueEventListener() {
+        databaseReference.addValueEventListener(new ValueEventListener() {//
             @Override
             public void onDataChange(@NonNull DataSnapshot snapshot) {
                 for (DataSnapshot dataSnapshot : snapshot.getChildren()){//get data from db
