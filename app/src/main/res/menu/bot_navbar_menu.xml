@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="My cars"
+        android:icon="@drawable/baseline_home_24"
+        android:id="@+id/myCars"/>
+
+    <item
+        android:title="All cars"
+        android:icon="@drawable/baseline_directions_car_24"
+        android:id="@+id/allCars"/>
+
+    <item
+        android:title="Add car"
+        android:icon="@drawable/baseline_add_24"
+        android:id="@+id/addCar"/>
+
+    <item
+        android:title="Logout"
+        android:icon="@drawable/baseline_exit_to_app_24"
+        android:id="@+id/logout"/>
+</menu>
